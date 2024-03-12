@@ -1,11 +1,11 @@
 ---
-title: "quarto_website"
+title: "Moohaeng's Website"
 ---
 
-This is a Quarto website.
+# About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a 4th year student in University of Toronto, majoring Computer Science, and minoring in Statistics and Mathematics. 
 
-```{r}
-1 + 1
-```
+# CV/Resume
+
+Check out my resume [here](./Moohaeng_Sohn_Resume.pdf).
